@@ -6,7 +6,8 @@ body {
     margin-bottom: 2rem;
     color: #025157;
     text-align: center;
-    font-family: "Alegreya", serif;
+    /*font-family: "Alegreya", serif;*/
+    font-family: 'Fascinate Inline', cursive;
     font-weight: 900;
     font-size: 3.2rem;
 }
