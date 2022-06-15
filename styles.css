@@ -23,9 +23,7 @@ button {
 }
 
 .header {
-    margin-top: 40px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin: 40px 20px 0;
     font-size: 0;
 }
 
@@ -61,3 +59,8 @@ li {
     font-size: 14px;
     font-weight: 600;
 }
+
+.main {
+    margin-top: 140px;
+    text-align: center;
+  }
