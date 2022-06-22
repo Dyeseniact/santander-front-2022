@@ -33,7 +33,7 @@ li {
     display: inline;
 }
 
-.header > * {
+.header>* {
     display: inline-block;
     font-size: 16px;
     line-height: 45px;
@@ -148,5 +148,6 @@ li {
 
 .features {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    height: 660px;
+    grid-template: repeat(2, 1fr) / repeat(2, 1fr)
 }
